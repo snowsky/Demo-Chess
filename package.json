@@ -24,7 +24,7 @@
     "flag-icons": "^6.0.3",
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.6.1",
+    "mongoose": "^8.9.5",
     "path": "^0.12.7",
     "paytmchecksum": "^1.5.1",
     "react": "^17.0.2",
